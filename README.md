@@ -1,5 +1,8 @@
 # FSM Design Patterns (Verilog/SystemVerilog)
 
+> ▶ **Run these FSMs live** — paste them into [ChipXpert Lab](https://lab.chipxpert.in/) for free in-browser Verilog/SystemVerilog simulation — no install, no signup.
+
+
 Finite state machines are where most real RTL bugs live. These are the patterns
 that keep them synthesisable, glitch-free, and easy to review.
 
